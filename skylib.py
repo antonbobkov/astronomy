@@ -46,6 +46,30 @@ def local_pdt(year, month, day, hour, minute=0):
                 scale="utc") - TimeDelta(PDT_OFFSET_H * 3600, format="sec")
 
 
+def constellations(ra_deg, dec_deg):
+    """3-letter IAU constellation abbreviation(s) for the given coordinates.
+
+    Accepts scalars or arrays; returns a numpy array of short names.
+    """
+    ra = np.atleast_1d(np.asarray(ra_deg, dtype=float))
+    dec = np.atleast_1d(np.asarray(dec_deg, dtype=float))
+    coords = SkyCoord(ra=ra * u.deg, dec=dec * u.deg)
+    return np.atleast_1d(coords.get_constellation(short_name=True))
+
+
+def hour_angle_hours(ra_deg, time):
+    """Local hour angle in hours, wrapped to (-12, +12].
+
+    HA = local sidereal time - RA, at the site's longitude. Positive = west of
+    the meridian (past transit, setting); negative = east (rising).
+    """
+    lst = time.sidereal_time("apparent", longitude=LON_DEG * u.deg).hour
+    ra_h = np.atleast_1d(np.asarray(ra_deg, dtype=float)) / 15.0
+    ha = (lst - ra_h) % 24.0
+    ha = np.where(ha > 12.0, ha - 24.0, ha)
+    return ha
+
+
 # ---------------------------------------------------------------------------
 # JPL Horizons ids for the solar-system minor bodies (keyed by CommonName).
 # ---------------------------------------------------------------------------
