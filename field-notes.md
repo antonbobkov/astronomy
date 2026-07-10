@@ -50,7 +50,7 @@ Hercules honors the mythological strongman, and though its stars are modest, it'
 ### 6. zet Her (Zeta Herculis)
 *A tight, fast-orbiting binary in Hercules — a test for a good telescope.*
 
-Zeta Herculis is a nearby pair of suns, one a little larger than ours and one about Sun-sized, orbiting so close together that splitting them challenges a small telescope on a steady night. Its special trick is speed: the two swing around each other in only about 34 years — fast enough that a patient observer can actually watch the companion creep around and then close back in over a lifetime. Most double stars are frozen on human timescales, so one you can *see* move is a rare pleasure — the whole sky is quietly in motion, and here that motion shows.
+Zeta Herculis is a nearby pair of suns, one a little larger than ours and one about Sun-sized, orbiting so close together that splitting them challenges a small telescope on a steady night. And the two move fast: a full orbit takes only about 34 years — fast enough that a patient observer can actually watch the companion creep around and then close back in over a lifetime. Most double stars are frozen on human timescales, so one you can *see* move is a rare pleasure — the whole sky is quietly in motion, and here that motion shows.
 
 ### 7. Hercules Cluster (M 13)
 *The finest globular cluster in the northern sky — a fuzzy ball in binoculars, a swarm of stars in a telescope.*
@@ -69,7 +69,7 @@ Every stargazer learns sooner or later that some of the finest sights hide right
 ### 9. Rasalgethi (alf Her)
 *A giant, pulsing red star in Hercules — and a colorful double in a telescope.*
 
-Rasalgethi is a dying giant — a bloated old red star so vast that, dropped into our Solar System, its surface would swallow the orbit of Earth. Like many aging giants it's restless, slowly swelling and shrinking so that its brightness visibly rises and falls over months. A small telescope also splits it into a lovely pair: the big orange giant beside a smaller companion that looks blue-green by contrast, one of the prettier color combinations in the sky.
+Rasalgethi is a dying giant — a bloated old red star so vast that, dropped into our Solar System, its surface would swallow the orbit of Earth. Like many aging giants it's restless, slowly swelling and shrinking so that its brightness visibly rises and falls over months. A small telescope also splits it into a pair: the big orange giant beside a smaller companion that looks blue-green by contrast, one of the prettier color combinations in the sky.
 
 It's also a preview of our own Sun's distant fate. Billions of years from now the Sun will likewise swell into a red giant and begin sloughing off its outer layers into space — the very material that later lights up as a glowing planetary nebula, like the Cat's Eye a few entries on. Rasalgethi lets you look that future in the eye tonight.
 
@@ -124,7 +124,7 @@ IC 4756 is a big, generous scatter of stars, bright enough to glimpse without op
 ### 16. Alya (the1 Ser)
 *A wide, easy matched double star in the tail of Serpens.*
 
-Alya is a gentle, satisfying double — two nearly identical white stars set far enough apart that even a small telescope splits them cleanly, which makes it a lovely confidence-builder after tougher pairs. It marks the very tip of the tail of Serpens, the celestial serpent. The two stars are so widely separated that they take something like ten thousand years to circle each other once — a single orbit against which all of recorded history feels like a blink.
+Alya is a gentle, satisfying double — two nearly identical white stars set far enough apart that even a small telescope splits them cleanly, which makes it a confidence-builder after tougher pairs. It marks the very tip of the tail of Serpens, the celestial serpent. The two stars are so widely separated that they take something like ten thousand years to circle each other once — a single orbit against which all of recorded history feels like a blink.
 
 ## Lyra (Lyr)
 
@@ -182,7 +182,7 @@ For such a familiar object, it hides real surprises. Radio telescopes have caugh
 ### 24. Flora
 *One of the brightest asteroids — another wandering point of light.*
 
-Flora is one of the brightest asteroids in our sky — a chunk of rock orbiting the Sun in the great belt between Mars and Jupiter. Like every asteroid it looks exactly like a faint star in the eyepiece; the only way to unmask it is patience — note where it sits tonight, come back a night or two later, and you'll catch it having quietly drifted against the true stars. That slow wandering is precisely how asteroids were first discovered, and spotting one on the move is a genuinely satisfying thing to do.
+Flora is one of the brightest asteroids in our sky — a chunk of rock orbiting the Sun in the great belt between Mars and Jupiter. Like every asteroid it looks exactly like a faint star in the eyepiece; the only way to unmask it is patience — note where it sits tonight, come back a night or two later, and you'll catch it having quietly drifted against the true stars. That slow wandering is precisely how asteroids were first discovered, and spotting one on the move is a satisfying thing to do.
 
 What makes Flora special is its family. Long ago it suffered a colossal collision, and the shattered fragments still travel with it as a whole "family" of asteroids, with Flora itself likely reassembled from much of the wreckage. That has a consequence you can practically hold in your hand: the Flora family is thought to be the main source of the **L chondrites — nearly two out of every five meteorites that fall to Earth**. So the asteroid belt isn't a random junkyard of rock; it's a slow-motion record of ancient collisions, and some of that debris eventually lands in a field as a meteorite.
 
@@ -211,14 +211,14 @@ Vulpecula, the Little Fox, is a faint modern constellation with no bright stars,
 
 The Coathanger is one of the most charming sights in all of binocular astronomy: a straight row of six stars with a "hook" of four hanging beneath, looking uncannily like an upside-down coathanger drifting in the Milky Way. It's easy to sweep up about midway between Vega and Altair, and it never fails to get a grin.
 
-Here's the twist, though: it isn't a real cluster at all. Precise measurements showed these ten stars lie at wildly different distances and simply happen to line up into that shape from our particular spot in the galaxy — a pattern astronomers call an "asterism." It's cosmic perspective made vivid: some of the sky's most convincing shapes are tricks of viewpoint that would dissolve completely if you could see them from anywhere else.
+But it isn't a real cluster at all. Precise measurements showed these ten stars lie at wildly different distances and simply happen to line up into that shape from our particular spot in the galaxy — a pattern astronomers call an "asterism." It's cosmic perspective made vivid: some of the sky's most convincing shapes are tricks of viewpoint that would dissolve completely if you could see them from anywhere else.
 
 ### 28. Dumbbell Nebula (M 27)
 *The brightest, easiest planetary nebula, in Vulpecula — an "apple core" glow.*
 
 The Dumbbell is the finest planetary nebula for beginners — big, bright, and easy, showing an obvious two-lobed "apple core" shape even in small telescopes, where fainter nebulae are just smudges. It also holds a place in history as the very first planetary nebula ever discovered, spotted by Charles Messier in 1764, long before anyone knew what these ghostly objects were.
 
-Its big, chunky, two-lobed shape makes it one of the best places to appreciate how a telescope can turn a mere "faint patch" into a genuinely sculpted, three-dimensional object.
+Its big, chunky, two-lobed shape makes it one of the best places to appreciate how a telescope can turn a mere "faint patch" into a sculpted, three-dimensional object.
 
 ## Aquila (Aql)
 
@@ -232,21 +232,21 @@ Melpomene is another sizeable main-belt asteroid, discovered in 1852 and named f
 ### 30. Juno
 *One of the first asteroids ever found — a wandering point of light.*
 
-Juno was the third asteroid ever discovered, back in 1804, and for a while it was proudly counted as a planet — as were Ceres, Pallas, and Vesta. Only when astronomers kept turning up more and more of these small bodies in the same region did they realize they belonged to a brand-new category, and the word "asteroid" was coined. So Juno is a genuine piece of how we came to understand the Solar System's layout.
+Juno was the third asteroid ever discovered, back in 1804, and for a while it was proudly counted as a planet — as were Ceres, Pallas, and Vesta. Only when astronomers kept turning up more and more of these small bodies in the same region did they realize they belonged to a brand-new category, and the word "asteroid" was coined. So Juno is part of how we came to understand the Solar System's layout.
 
 In the eyepiece it's just another faint, drifting dot — but a historic one: a small world that helped teach humanity the Solar System has room for far more than a tidy handful of planets.
 
 ### 31. eta Aql
 *A bright, pulsing Cepheid variable in Aquila — watch it swing over about a week.*
 
-Eta Aquilae looks like an ordinary star, but it's secretly one of the most important kinds of star in the sky: a Cepheid variable. It's a pulsating giant that rhythmically swells and shrinks, brightening and fading over roughly a week — a change you can genuinely follow with the naked eye or binoculars by comparing it to steady stars nearby.
+Eta Aquilae looks like an ordinary star, but it's secretly one of the most important kinds of star in the sky: a Cepheid variable. It's a pulsating giant that rhythmically swells and shrinks, brightening and fading over roughly a week — a change you can follow with the naked eye or binoculars by comparing it to steady stars nearby.
 
 These pulsating stars turn out to be one of astronomy's most powerful tools — but that story belongs to the star that gave the whole class its name, Delta Cephei, which comes up later tonight. For now, just savor the rare experience of watching a star slowly breathe over the course of a week.
 
 ### 32. Altair (alf Aql)
 *A brilliant nearby star — the southern corner of the Summer Triangle, in Aquila the Eagle.*
 
-Altair is the third corner of the Summer Triangle and one of our closest bright-star neighbors — a crisp white star that noticeably twinkles when it's low. Its party trick is speed: it whirls around once in well under a day, roughly nine hours compared to the Sun's leisurely month, spinning so fast that it bulges out at the equator into a flattened, egg-like shape. It was one of the very first stars beyond the Sun to have its actual surface imaged — and sure enough, it came out squashed.
+Altair is the third corner of the Summer Triangle and one of our closest bright-star neighbors — a crisp white star that noticeably twinkles when it's low. It spins ferociously fast — once around in well under a day, roughly nine hours against the Sun's leisurely month — so fast that it bulges out at the equator into a flattened, egg-like shape. It was one of the very first stars beyond the Sun to have its actual surface imaged — and sure enough, it came out squashed.
 
 Altair also stars in one of the world's loveliest sky legends. In the Chinese and Japanese Tanabata (Qixi) story, Altair is a cowherd and Vega a weaver girl — lovers separated by the river of the Milky Way, allowed to reunite just one night each year. People have been telling stories about these exact points of light for thousands of years.
 
@@ -306,14 +306,14 @@ The trick he used, "parallax," is the same one your eyes use to judge distance �
 ### 40. North America Nebula (NGC 7000)
 *A huge glowing cloud near Deneb, shaped like the continent of North America.*
 
-Near Deneb floats one of the sky's most delightful shapes: a vast cloud of glowing gas whose outline is a dead ringer for the continent of North America, complete with a dark "Gulf of Mexico." It's genuinely enormous — larger than the full Moon on the sky — but faint, so it's best under dark skies with binoculars, a wide-field scope, or a nebula filter, and it's spectacular in photographs, where its hydrogen glow blushes red.
+Near Deneb floats one of the sky's most delightful shapes: a vast cloud of glowing gas whose outline is a dead ringer for the continent of North America, complete with a dark "Gulf of Mexico." It's enormous — larger than the full Moon on the sky — but faint, so it's best under dark skies with binoculars, a wide-field scope, or a nebula filter, and it's spectacular in photographs, where its hydrogen glow blushes red.
 
 That shape is the work of dust: the "coastline" is carved by lanes of dark dust drifting in front of the cloud, blocking the light behind them to sketch that familiar continental outline. Nebulae, it turns out, are shaped as much by shadow and dust as by the glow of the gas itself.
 
 ### 41. Deneb (alf Cyg)
 *A supergiant marking the tail of Cygnus and the top of the Northern Cross — a Summer Triangle corner.*
 
-Deneb marks the tail of Cygnus the Swan and the top of the Northern Cross, the third corner of the Summer Triangle. Here's what makes it quietly astonishing: it looks about as bright as its Triangle-mates Vega and Altair, yet those two are practically next door while Deneb lies fantastically far away — well over a thousand light-years. To still shine that brightly across such a gulf, it must be a genuine monster — around nineteen times the Sun's mass, pouring out the light of something like a hundred thousand Suns. Stars that heavy live fast and die young: within a few million years Deneb will exhaust its fuel and blow itself apart as a supernova, exactly like the star that left the Veil we just visited.
+Deneb marks the tail of Cygnus the Swan and the top of the Northern Cross, the third corner of the Summer Triangle. It looks about as bright as its Triangle-mates Vega and Altair, yet those two are practically next door while Deneb lies fantastically far away — well over a thousand light-years. To still shine that brightly across such a gulf, it must be a monster — around nineteen times the Sun's mass, pouring out the light of something like a hundred thousand Suns. Stars that heavy live fast and die young: within a few million years Deneb will exhaust its fuel and blow itself apart as a supernova, exactly like the star that left the Veil we just visited.
 
 Deneb makes vivid one of astronomy's most important ideas: how bright a star *looks* tells you nothing about how bright it truly *is* until you know its distance. Vega looks brilliant because it's close; Deneb looks brilliant because it's a supergiant powerhouse seen from far away. Same apparent glow, wildly different stars.
 
@@ -379,7 +379,7 @@ Pegasus, the Winged Horse, is anchored by the Great Square — a big, near-empty
 
 M15 has the most extreme heart of any globular here. Like M30's, its core has "collapsed" into an incredibly dense knot — but M15's is denser still, and something may be hiding at the very center: quite possibly a black hole. In a telescope it shows a brilliant, almost star-like core wrapped in a softer halo, easy and rewarding even in modest instruments.
 
-That crowded core is a graveyard of dead stars, and a remarkable one: M15 holds at least eight **pulsars** — neutron stars, the city-sized, almost unimaginably dense cinders left behind when massive stars explode (the same kind of remnant the Veil's supernova should have made), each spinning fast and sweeping the sky with radio beams like a lighthouse. One pair even circles as a rare double neutron star. And tucked *inside* the cluster is a genuine oddity — a tiny planetary nebula, one dying star's smoke ring hidden among a hundred thousand ancient suns. Few objects pack so much of the universe's exotica into a single eyepiece field.
+That crowded core is a graveyard of dead stars, and a remarkable one: M15 holds at least eight **pulsars** — neutron stars, the city-sized, almost unimaginably dense cinders left behind when massive stars explode (the same kind of remnant the Veil's supernova should have made), each spinning fast and sweeping the sky with radio beams like a lighthouse. One pair even circles as a rare double neutron star. And tucked *inside* the cluster is an oddity — a tiny planetary nebula, one dying star's smoke ring hidden among a hundred thousand ancient suns. Few objects pack so much of the universe's exotica into a single eyepiece field.
 
 ## Aquarius (Aqr)
 
@@ -454,7 +454,7 @@ The Andromeda Galaxy is the most distant thing most people can ever see with the
 
 For a long time nobody knew what these "spiral nebulae" were — nearby clouds of gas inside our own galaxy, or separate "island universes" far beyond it. The question was only settled in the 1920s, when Edwin Hubble picked out individual stars in Andromeda and showed they were impossibly distant. Overnight, the known universe became thousands of times bigger.
 
-Here's the fun part to think about at the eyepiece: unlike most galaxies, Andromeda isn't racing away from us — it's heading *toward* us, and in a few billion years the two galaxies will merge into one. That little smudge is our galaxy's future dance partner — and the faintest, most unremarkable smear of light can turn out to be the biggest thing you'll ever lay eyes on.
+And unlike most galaxies, Andromeda isn't racing away from us — it's heading *toward* us, and in a few billion years the two galaxies will merge into one. That little smudge is our galaxy's future dance partner — and the faintest, most unremarkable smear of light can turn out to be the biggest thing you'll ever lay eyes on.
 
 ### 59. Almach (gam1 And)
 *Colorful double star in Andromeda — a small-telescope showpiece.*
@@ -488,7 +488,7 @@ Ursa Minor, the Little Bear — better known as the Little Dipper — is small a
 
 Polaris is famous not for being bright — it's only middling — but for *where* it sits: almost exactly above Earth's North Pole. As the sky wheels through the night, every other star circles around Polaris while it stays nearly fixed, which is why travelers and sailors have used it to find north for centuries. Trace the two "pointer" stars at the end of the Big Dipper's bowl and they lead you straight to it.
 
-It won't hold the job forever, though. Earth's axis slowly wobbles like a spinning top over roughly 26,000 years, so the title of "North Star" is handed from star to star down the ages — thousands of years ago it belonged to a different star, and thousands of years from now it will pass to another. Polaris is also quietly a small family of stars — and, fittingly for such a useful star, the nearest example of a Cepheid, the same kind of distance-measuring beacon as Delta Cephei.
+It won't hold the job forever, though. Earth's axis slowly wobbles like a spinning top over roughly 26,000 years, so the title of "North Star" is handed from star to star down the ages — thousands of years ago it belonged to a different star, and thousands of years from now it will pass to another. Polaris is also a small family of stars — and, fittingly for such a useful star, the nearest example of a Cepheid, the same kind of distance-measuring beacon as Delta Cephei.
 
 ## Appendix — Beyond Tonight's List
 
@@ -507,14 +507,14 @@ If the sky offered a single object that showed off every kind of nebula at once,
 ### Barnard's E (Barnard 142 & 143)
 *A dark rift near Altair — a nebula you notice not by its glow but by the stars it blots out.*
 
-Every other object in this book shines; Barnard's E is admired for the opposite reason. It's a **dark nebula** — a dense, cold cloud of interstellar dust so opaque that it simply erases the crowded Milky Way star fields behind it, its silhouette tracing a ragged letter "E" (B143 forms the top strokes, B142 the base). It floats about 3° from brilliant Altair, just past the star Tarazed, some two thousand light-years off and roughly a full Moon wide. These "holes in the heavens" were long mistaken for real gaps in the stars until Edward Emerson Barnard photographed them in the early 1900s and proved they were opaque dust — the same material that, glowing elsewhere, builds the Trifid's lanes and carves the coastline of the North America Nebula. Best of all, it's the one object in this appendix genuinely well-placed tonight: Aquila rides high, so under a dark sky it's a lovely binocular target sitting right beside a star already on your list (Altair, #32). Look for the absence, not the glow.
+Every other object in this book shines; Barnard's E is admired for the opposite reason. It's a **dark nebula** — a dense, cold cloud of interstellar dust so opaque that it simply erases the crowded Milky Way star fields behind it, its silhouette tracing a ragged letter "E" (B143 forms the top strokes, B142 the base). It floats about 3° from brilliant Altair, just past the star Tarazed, some two thousand light-years off and roughly a full Moon wide. These "holes in the heavens" were long mistaken for real gaps in the stars until Edward Emerson Barnard photographed them in the early 1900s and proved they were opaque dust — the same material that, glowing elsewhere, builds the Trifid's lanes and carves the coastline of the North America Nebula. Best of all, it's the one object in this appendix well-placed tonight: Aquila rides high, so under a dark sky it's a lovely binocular target sitting right beside a star already on your list (Altair, #32). Look for the absence, not the glow.
 
 ### Rho Ophiuchi Cloud Complex
 *The closest stellar nursery to the Sun — and the most colorful patch of sky there is, though its glory belongs to the camera.*
 
 If you've ever seen a wide-field astrophotograph that looks almost too gaudy to be real — swirls of gold, rust-red, and electric blue all tangled around a brilliant star — chances are you were looking at Rho Ophiuchi. It's the closest large star-forming region to the Sun, a mere four hundred-odd light-years away, and it packs nearly every kind of nebula into one enormous stretch of sky several times wider than your fist at arm's length. Blue **reflection** nebulae glow around the star Rho Ophiuchi itself (its light scattering off the dust, blue like the Trifid's and like our own daytime sky); warmer clouds of **emission** gas shine their own red; and dark, sinuous lanes of dust — many from Barnard's catalog, cousins of the E you just visited — wind through the whole tapestry.
 
-Presiding over the scene is Antares, the great red-supergiant heart of Scorpius, so cool and ruddy that it wraps itself in a rare gold reflection cloud all its own. Here's a lovely twist of perspective: Antares isn't actually part of the complex at all — it sits about ninety light-years *beyond* it, a chance line-of-sight neighbor, exactly the sort of illusion you met with the optical double Algedi. Close by glows the globular cluster M4, one of the very nearest globulars to us. The honest catch is that from Adin all of this hangs low over the southern horizon and, to the eye, looks faint and colorless — the riot of color is something cameras gather over long exposures, not something the eyepiece reveals. Still, it's worth knowing exactly where the sky's most photographed nursery lies, and that it's practically in our own backyard.
+Presiding over the scene is Antares, the great red-supergiant heart of Scorpius, so cool and ruddy that it wraps itself in a rare gold reflection cloud all its own. Yet it isn't actually part of the complex at all — it sits about ninety light-years *beyond* it, a chance line-of-sight neighbor, exactly the sort of illusion you met with the optical double Algedi. Close by glows the globular cluster M4, one of the very nearest globulars to us. The honest catch is that from Adin all of this hangs low over the southern horizon and, to the eye, looks faint and colorless — the riot of color is something cameras gather over long exposures, not something the eyepiece reveals. Still, it's worth knowing exactly where the sky's most photographed nursery lies, and that it's practically in our own backyard.
 
 ### Virgo Cluster
 *The nearest great city of galaxies — over a thousand of them, ruled by the black-hole giant M87.*
