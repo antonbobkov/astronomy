@@ -55,7 +55,7 @@ Zeta Herculis is a nearby pair of suns, one a little larger than ours and one ab
 ### 7. Hercules Cluster (M 13)
 *The finest globular cluster in the northern sky — a fuzzy ball in binoculars, a swarm of stars in a telescope.*
 
-M13 is the showpiece globular cluster of the northern sky: a tight ball of several hundred thousand stars, bound by gravity and orbiting the Milky Way far out beyond its disk. In binoculars it's a round hazy glow; through a telescope the edges begin to crackle into individual stars, and a larger scope explodes it into a glittering swarm that many people never forget.
+M13 is a showpiece: a tight ball of several hundred thousand stars, bound by gravity and orbiting the Milky Way far out beyond its disk. In binoculars it's a round hazy glow; through a telescope the edges begin to crackle into individual stars, and a larger scope explodes it into a glittering swarm that many people never forget.
 
 A globular cluster like this is one of the galaxy's true elders. Its stars are ancient — over eleven billion years old, relics from when the universe was young — and "metal-poor," made almost purely of hydrogen and helium because they were born before generations of dying stars had seeded space with heavier elements. Clusters like it orbit far out in the Milky Way's **halo**, above and below the flat disk where the Sun lives, and that same story holds for every globular on tonight's list — so once you've met M13, you know the whole family. As a coda, in 1974 astronomers used the giant Arecibo dish to beam a coded message about humanity toward M13, a cosmic message-in-a-bottle that won't arrive for some 25,000 years. When you look at that fuzzy ball, our hello is still on its way.
 
@@ -170,12 +170,12 @@ It reveals how our galaxy is actually built: the Milky Way isn't only stars, it'
 ### 22. Omega Nebula (M 17)
 *A bright star-forming nebula in Sagittarius — one of the easiest nebulae to see.*
 
-The Omega is one of the brightest and most rewarding nebulae for a small telescope — a glowing bar of gas that different people have seen as a swan gliding on water, a checkmark, or the Greek letter omega, which is why it has collected so many nicknames. Like the Eagle nearby, it's an emission nebula lit up by a cluster of freshly minted stars — but it's noticeably brighter and more sharply defined, one of the few nebulae that shows real shape and substance in a small telescope even under less-than-perfect skies.
+The Omega is one of the brightest nebulae for a small telescope — a glowing bar of gas that different people have seen as a swan gliding on water, a checkmark, or the Greek letter omega, which is why it has collected so many nicknames. Like the Eagle nearby, it's an emission nebula lit up by a cluster of freshly minted stars — but it's noticeably brighter and more sharply defined, one of the few nebulae that shows real shape and substance in a small telescope even under less-than-perfect skies.
 
 ### 23. M 22
 *A big, bright globular cluster low in Sagittarius.*
 
-M22 is one of the brightest globular clusters in the entire sky and among the nearest to us — an easy glowing ball in binoculars. Its only drawback from Adin is that it rides low in the south, where haze near the horizon can rob some of its shine. It was very likely the first globular cluster ever discovered, back in 1665, long before anyone understood what these fuzzy balls actually were.
+M22 is one of the brightest globular clusters in the sky and among the nearest to us — an easy glowing ball in binoculars. Its only drawback from Adin is that it rides low in the south, where haze near the horizon can rob some of its shine. It was very likely the first globular cluster ever discovered, back in 1665, long before anyone understood what these fuzzy balls actually were.
 
 For such a familiar object, it hides real surprises. Radio telescopes have caught at least two **black holes** wandering its crowded core — the collapsed corpses of once-massive stars, each perhaps ten to twenty times the Sun's mass, so dense that not even light escapes them; astronomers suspect dozens more hide among the throng. M22 is also one of only a handful of globulars known to wrap around a planetary nebula of its own. Tens of thousands of ancient stars packed this tightly behave in strange ways, and even old, well-known neighborhoods can still keep secrets.
 
@@ -209,7 +209,7 @@ Vulpecula, the Little Fox, is a faint modern constellation with no bright stars,
 ### 27. Coathanger (Cr 399)
 *An asterism shaped like a coathanger, between Vega and Altair — a binocular delight.*
 
-The Coathanger is one of the most charming sights in all of binocular astronomy: a straight row of six stars with a "hook" of four hanging beneath, looking uncannily like an upside-down coathanger drifting in the Milky Way. It's easy to sweep up about midway between Vega and Altair, and it never fails to get a grin.
+The Coathanger is one of the most charming sights in binocular astronomy: a straight row of six stars with a "hook" of four hanging beneath, looking uncannily like an upside-down coathanger drifting in the Milky Way. It's easy to sweep up about midway between Vega and Altair, and it never fails to get a grin.
 
 But it isn't a real cluster at all. Precise measurements showed these ten stars lie at wildly different distances and simply happen to line up into that shape from our particular spot in the galaxy — a pattern astronomers call an "asterism." It's cosmic perspective made vivid: some of the sky's most convincing shapes are tricks of viewpoint that would dissolve completely if you could see them from anywhere else.
 
@@ -459,7 +459,7 @@ And unlike most galaxies, Andromeda isn't racing away from us — it's heading *
 ### 59. Almach (gam1 And)
 *Colorful double star in Andromeda — a small-telescope showpiece.*
 
-Almach is one of the prettiest double stars in the sky and a perfect "wow" through a small scope: a bright golden-yellow star sitting right beside a smaller steely-blue one — the same gorgeous warm-and-cool colour pairing that makes Albireo so beloved.
+Almach is one of the prettiest double stars in the sky, a real "wow" through a small scope: a bright golden-yellow star sitting right beside a smaller steely-blue one — the same gorgeous warm-and-cool colour pairing that makes Albireo so beloved.
 
 What looks like a tidy pair is secretly a whole family: the blue companion is itself several stars huddled close together, making Almach a system of four in all.
 
@@ -470,7 +470,7 @@ Perseus, the hero who rescued Andromeda, lies in a magnificent stretch of the Mi
 ### 60. Double Cluster (NGC 869)
 *Open star cluster in Perseus — glorious in binoculars, naked-eye under dark skies.*
 
-The Double Cluster is one of the finest sights in the northern sky for binoculars or a low-power telescope: two dense, sparkling knots of blue-white stars sitting side by side in the same view. To the naked eye under a dark sky they show up as a hazy double patch in the Milky Way between Perseus and Cassiopeia — ancient skywatchers logged it long before anyone knew it was two separate swarms of stars.
+The Double Cluster is a magnificent sight for binoculars or a low-power telescope: two dense, sparkling knots of blue-white stars sitting side by side in the same view. To the naked eye under a dark sky they show up as a hazy double patch in the Milky Way between Perseus and Cassiopeia — ancient skywatchers logged it long before anyone knew it was two separate swarms of stars.
 
 Both clusters are young as stars go, only around 13 million years old, which is why they blaze with hot blue stars that haven't yet had time to age; older clusters look redder and more settled. Two rich, brilliant clusters caught in a single glance — and genuinely related, born from the same great cloud — make a rare treat.
 
