@@ -50,7 +50,7 @@ Hercules honors the mythological strongman, and though its stars are modest, it'
 ### 6. zet Her (Zeta Herculis)
 *A tight, fast-orbiting binary in Hercules — a test for a good telescope.*
 
-Zeta Herculis is a nearby pair of suns, one a little larger than ours and one about Sun-sized, orbiting so close together that splitting them challenges a small telescope on a steady night. Its special trick is speed: the two swing around each other in only about 34 years — fast enough that a patient observer can actually watch the companion creep around and then close back in over a lifetime. Most double stars are frozen on human timescales, so one you can *see* move is a rare pleasure, and a reminder that the whole sky is quietly in motion.
+Zeta Herculis is a nearby pair of suns, one a little larger than ours and one about Sun-sized, orbiting so close together that splitting them challenges a small telescope on a steady night. Its special trick is speed: the two swing around each other in only about 34 years — fast enough that a patient observer can actually watch the companion creep around and then close back in over a lifetime. Most double stars are frozen on human timescales, so one you can *see* move is a rare pleasure — the whole sky is quietly in motion, and here that motion shows.
 
 ### 7. Hercules Cluster (M 13)
 *The finest globular cluster in the northern sky — a fuzzy ball in binoculars, a swarm of stars in a telescope.*
@@ -80,14 +80,14 @@ Ophiuchus, the Serpent Bearer, is a big constellation low in the summer south, h
 ### 10. IC 4665
 *A big, loose open cluster near Ophiuchus's shoulder — best in binoculars.*
 
-IC 4665 is a large, scattered sprinkle of young stars, so spread out that it actually looks best in binoculars or a low-power scope, where you can take in the whole loose group in one view — hence its nickname, the "Summer Beehive." It's a classic **open cluster**: a few hundred stars born together from one cloud of gas in the flat disk of the Milky Way, and — unlike the tight, ancient globulars — only loosely bound by gravity. Clusters like this drift apart over a few hundred million years, which is why they're always young; the Sun itself long ago wandered away from the cluster it was born in. IC 4665 is also one of the brightest clusters that Charles Messier never bothered to record, a nice reminder that the famous catalogs skip plenty of lovely things, and some of the most relaxing views come from wandering off the beaten list.
+IC 4665 is a large, scattered sprinkle of young stars, so spread out that it actually looks best in binoculars or a low-power scope, where you can take in the whole loose group in one view — hence its nickname, the "Summer Beehive." It's a classic **open cluster**: a few hundred stars born together from one cloud of gas in the flat disk of the Milky Way, and — unlike the tight, ancient globulars — only loosely bound by gravity. Clusters like this drift apart over a few hundred million years, which is why they're always young; the Sun itself long ago wandered away from the cluster it was born in. IC 4665 is also one of the brightest clusters that Charles Messier never bothered to record — the famous catalogs skip plenty of lovely things, and some of the most relaxing views come from wandering off the beaten list.
 
 ### 11. Barnard's Star (HIP 87937)
 *A faint red dwarf in Ophiuchus — famous for racing across the sky.*
 
 Barnard's Star is nothing much to look at — a dim red dwarf you need a telescope to glimpse at all — yet it's one of the most famous stars in the sky, for one reason: it moves. It's among our very closest stellar neighbors, and it slides across the background stars faster than any other, covering about half the width of the full Moon every human lifetime. Astronomers nicknamed it the "Runaway Star."
 
-That motion is a wonderful eye-opener: the stars aren't truly fixed. They're all rushing through space, and the familiar constellations are slowly deforming — we just don't notice because nearly everything is too far away for the drift to show. Barnard's Star is close enough that it *does* show. It's also one of the oldest stars in our neighborhood — a frugal little red dwarf perhaps twice the Sun's age and poor in heavy elements, burning its fuel so slowly that it will still be glimmering faintly trillions of years from now, long after the Sun has died. And astronomers recently found it hosts a little family of small planets — a reminder that even modest, ancient stars can have worlds of their own.
+That motion is a wonderful eye-opener: the stars aren't truly fixed. They're all rushing through space, and the familiar constellations are slowly deforming — we just don't notice because nearly everything is too far away for the drift to show. Barnard's Star is close enough that it *does* show. It's also one of the oldest stars in our neighborhood — a frugal little red dwarf perhaps twice the Sun's age and poor in heavy elements, burning its fuel so slowly that it will still be glimmering faintly trillions of years from now, long after the Sun has died. And astronomers recently found it hosts a little family of small planets: even modest, ancient stars can have worlds of their own.
 
 ### 12. 70 Oph
 *A nearby yellow-and-orange double star in Ophiuchus.*
@@ -124,7 +124,7 @@ IC 4756 is a big, generous scatter of stars, bright enough to glimpse without op
 ### 16. Alya (the1 Ser)
 *A wide, easy matched double star in the tail of Serpens.*
 
-Alya is a gentle, satisfying double — two nearly identical white stars set far enough apart that even a small telescope splits them cleanly, which makes it a lovely confidence-builder after tougher pairs. It marks the very tip of the tail of Serpens, the celestial serpent. The two stars are so widely separated that they take something like ten thousand years to circle each other once — a good reminder that "orbiting" in space can span timescales that make all of recorded history feel like a single blink.
+Alya is a gentle, satisfying double — two nearly identical white stars set far enough apart that even a small telescope splits them cleanly, which makes it a lovely confidence-builder after tougher pairs. It marks the very tip of the tail of Serpens, the celestial serpent. The two stars are so widely separated that they take something like ten thousand years to circle each other once — a single orbit against which all of recorded history feels like a blink.
 
 ## Lyra (Lyr)
 
@@ -154,7 +154,7 @@ It's one of the best first encounters with "variable stars," and with the surpri
 
 The Ring is the classic first planetary nebula for almost every stargazer, and it's wonderfully easy to find — it sits about halfway between the two lower stars of Lyra's little parallelogram, so you can hop straight to it. In a small telescope it looks just like its name: a tiny, perfectly formed grey smoke ring hanging in the eyepiece, small but unmistakable.
 
-There's a nice bit of naming history here: early observers thought these little round objects resembled the greenish disks of planets like Uranus, which is how the confusing label "planetary nebula" stuck — even though no planets are involved. The Ring is a reminder that some of the sky's best sights aren't far-off galaxies but nearby stars quietly recycling themselves back into space.
+There's a nice bit of naming history here: early observers thought these little round objects resembled the greenish disks of planets like Uranus, which is how the confusing label "planetary nebula" stuck — even though no planets are involved. Some of the sky's best sights aren't far-off galaxies but nearby stars like this one, quietly recycling themselves back into space.
 
 ## Sagittarius (Sgr)
 
@@ -189,7 +189,7 @@ What makes Flora special is its family. Long ago it suffered a colossal collisio
 ### 25. Little Gem Nebula (NGC 6818)
 *A small, bright planetary nebula in Sagittarius.*
 
-The Little Gem lives up to its name — a compact planetary nebula, small but bright enough to show a distinct blue-green glow in a modest telescope, and at higher magnification a rounded, faintly bubble-like shape. Coming to it after the bigger showpieces, it's a nice reminder that these stellar "smoke rings" come in all sizes and shapes — some sprawling, some, like this one, jewel-box small.
+The Little Gem lives up to its name — a compact planetary nebula, small but bright enough to show a distinct blue-green glow in a modest telescope, and at higher magnification a rounded, faintly bubble-like shape. Coming to it after the bigger showpieces, it makes a nice counterpoint: these stellar "smoke rings" come in all sizes and shapes — some sprawling, some, like this one, jewel-box small.
 
 ## Scutum (Sct)
 
@@ -248,7 +248,7 @@ These pulsating stars turn out to be one of astronomy's most powerful tools — 
 
 Altair is the third corner of the Summer Triangle and one of our closest bright-star neighbors — a crisp white star that noticeably twinkles when it's low. Its party trick is speed: it whirls around once in well under a day, roughly nine hours compared to the Sun's leisurely month, spinning so fast that it bulges out at the equator into a flattened, egg-like shape. It was one of the very first stars beyond the Sun to have its actual surface imaged — and sure enough, it came out squashed.
 
-Altair also stars in one of the world's loveliest sky legends. In the Chinese and Japanese Tanabata (Qixi) story, Altair is a cowherd and Vega a weaver girl — lovers separated by the river of the Milky Way, allowed to reunite just one night each year. It's a nice reminder that people have been telling stories about these exact points of light for thousands of years.
+Altair also stars in one of the world's loveliest sky legends. In the Chinese and Japanese Tanabata (Qixi) story, Altair is a cowherd and Vega a weaver girl — lovers separated by the river of the Milky Way, allowed to reunite just one night each year. People have been telling stories about these exact points of light for thousands of years.
 
 ## Sagitta (Sge)
 
@@ -523,4 +523,4 @@ Everything else in this book lives inside our own Milky Way, or at most within o
 
 The cluster's undisputed monarch is M87, a colossal elliptical galaxy of several trillion stars ringed by some fifteen thousand globular clusters. At its core lurks a **supermassive black hole** of about six and a half billion Suns — the very one that in 2019 became the first black hole ever *photographed*, its dark silhouette ringed by glowing gas in an image beamed around the world by the Event Horizon Telescope. It's the same breed of monster that anchors the hub of nearly every big galaxy, including the one hinted at back in M81 and the one at the center of our own Milky Way. And M87 was famous long before that portrait: in 1918 Heber Curtis spotted "a curious straight ray" jutting from its center — a jet of plasma flung outward near the speed of light for thousands of light-years, the first extragalactic jet ever seen, and still glowing today from radio waves to X-rays.
 
-Among the cluster's showpieces is Markarian's Chain, a graceful, gently curving arc of galaxies — the bright ellipticals M84 and M86 among them — that looks, uncannily, as though it were strung on a wire on purpose. The one drawback is timing: Virgo is a spring constellation, and by mid-July from Adin it's already sinking into the western twilight, long gone before your 10 pm start. So take this as the appendix's parting invitation — a reason to come back in April or May, aim the scope into a patch of sky that looks empty, and watch whole galaxies swim into view one after another. After a night spent among the stars and gas clouds of our own galaxy, it's a fitting place to end: a reminder that the Milky Way is just one city of stars among countless millions.
+Among the cluster's showpieces is Markarian's Chain, a graceful, gently curving arc of galaxies — the bright ellipticals M84 and M86 among them — that looks, uncannily, as though it were strung on a wire on purpose. The one drawback is timing: Virgo is a spring constellation, and by mid-July from Adin it's already sinking into the western twilight, long gone before your 10 pm start. So take this as the appendix's parting invitation — a reason to come back in April or May, aim the scope into a patch of sky that looks empty, and watch whole galaxies swim into view one after another. After a night spent among the stars and gas clouds of our own galaxy, it's a fitting place to end: the Milky Way is just one city of stars among countless millions.
