@@ -1,0 +1,8 @@
+# Preserve exact line endings for format-sensitive data files.
+# SkySafari lists use LF; the Objects4 CSV format uses CRLF.
+*.skylist text eol=lf
+*.csv     text eol=crlf
+
+# Normalize source and docs to LF in the repo.
+*.py  text eol=lf
+*.md  text eol=lf

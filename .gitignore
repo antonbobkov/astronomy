@@ -1,0 +1,5 @@
+# Caches and generated data — rebuilt/re-downloaded by the scripts on demand
+OpenNGC.csv
+ca-bundle.pem
+__pycache__/
+*.pyc
