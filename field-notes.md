@@ -25,12 +25,12 @@ Together the two galaxies tell a story you can take in with your own eyes: galax
 
 Mizar is the bright star at the kink in the Big Dipper's handle, and right beside it sits a fainter star, Alcor. Arab astronomers called them the "horse and rider," and separating the two with the naked eye has been an eyesight test for centuries — manage it and your vision is doing well. Aim a telescope at Mizar and it splits *again* into two, so what looks like one point of light is really a little crowd.
 
-Mizar has a knack for making history: it was the first double star ever photographed, and later the first star found to be a "spectroscopic binary" — a pair orbiting so close that no telescope can show them apart, yet they give themselves away in their split-up starlight. All told, Mizar and Alcor add up to six stars traveling together. It's the perfect object for the lesson that a single dot in the sky often hides a whole family.
+Mizar has a knack for making history: it was the first double star ever photographed, and later the first star found to be a "spectroscopic binary" — a pair orbiting so close that no telescope can show them apart, yet they give themselves away in their split-up starlight. All told, Mizar and Alcor add up to six stars traveling together: a single dot in the sky that hides a whole family.
 
 ### 4. M 101 (Pinwheel Galaxy)
 *Face-on spiral galaxy in Ursa Major — a rewarding challenge that needs dark skies.*
 
-The Pinwheel is a big, beautiful spiral galaxy turned face-on to us, so photographs show its arms curling outward like a cosmic catherine wheel. In the eyepiece it's a subtler thing: its light is smeared over a wide area, so it appears as a faint, ghostly glow that only reveals its spiral shape under very dark skies or through a large telescope. That makes it a good teacher of a stargazing truth — "big" and "bright" aren't the same thing, and a sprawling object can be harder to spot than a small, concentrated one.
+The Pinwheel is a big, beautiful spiral galaxy turned face-on to us, so photographs show its arms curling outward like a cosmic catherine wheel. In the eyepiece it's a subtler thing: its light is smeared over a wide area, so it appears as a faint, ghostly glow that only reveals its spiral shape under very dark skies or through a large telescope. Here "big" and "bright" part ways: a sprawling object can be harder to spot than a small, concentrated one.
 
 For scale, the Pinwheel is nearly three times the width of the Milky Way and may hold something like a trillion stars, yet it stays dim simply because it lies around twenty million light-years away. Tracking it down is a rite of passage; catching even its glow is a sign the sky above you is genuinely dark.
 
@@ -64,7 +64,7 @@ A globular cluster like this is one of the galaxy's true elders. Its stars are a
 
 M92 has the bad luck of sharing Hercules with the more famous M13, so it often gets skipped — but on its own it's a stunner, a bright, compact ball of stars that would be a headline sight in almost any other constellation. Binoculars show a small round glow; a telescope tightens it into a dense, sparkling knot.
 
-M92 teaches a lesson every stargazer learns sooner or later: some of the finest sights hide right next to the famous ones, and it always pays to look past the obvious. (It's also reckoned one of the very oldest and most metal-poor clusters known — an elder even among elders.)
+Every stargazer learns sooner or later that some of the finest sights hide right next to the famous ones, and that it always pays to look past the obvious. (It's also reckoned one of the very oldest and most metal-poor clusters known — an elder even among elders.)
 
 ### 9. Rasalgethi (alf Her)
 *A giant, pulsing red star in Hercules — and a colorful double in a telescope.*
@@ -140,14 +140,14 @@ Like Polaris, Vega takes its turn as the North Star — it held the title around
 ### 18. Double Double (eps1 Lyr)
 *A famous "double double" star right beside Vega, in Lyra.*
 
-Just a finger's-width from Vega sits Epsilon Lyrae, the "Double Double" — a wonderful trick of the sky delivered in layers. Sharp eyes, or any binoculars, split it into two stars. Then turn a telescope on each of those, and on a steady night each one splits *again* into a close pair — four stars in all, arranged as two tidy couples. Because that final split is delicate, it's a classic test of a telescope's sharpness and the steadiness of the night air. It's the perfect sequel to Almach and Albireo for the same beginner's lesson, carried one step further: keep looking closer, and one star becomes two, and two become four.
+Just a finger's-width from Vega sits Epsilon Lyrae, the "Double Double" — a wonderful trick of the sky delivered in layers. Sharp eyes, or any binoculars, split it into two stars. Then turn a telescope on each of those, and on a steady night each one splits *again* into a close pair — four stars in all, arranged as two tidy couples. Because that final split is delicate, it's a classic test of a telescope's sharpness and the steadiness of the night air. It's a natural sequel to Almach and Albireo, carried one step further: keep looking closer, and one star becomes two, and two become four.
 
 ### 19. Sheliak (bet Lyr)
 *An eclipsing variable star in Lyra — watch it change over days.*
 
 Sheliak is a star you can literally watch change. It's a pair of suns orbiting so close together that no telescope can pull them apart, and roughly every thirteen days one passes in front of the other, so their combined light visibly dims and then recovers — a slow celestial blink you can follow by comparing Sheliak to nearby Gamma Lyrae, the other bright star at the base of Lyra's little parallelogram. The two stars are practically touching, and one is spilling streams of gas onto the other.
 
-It's one of the best beginner introductions to "variable stars," and to the surprising idea that some of what looks permanent in the sky is actually shifting on a timescale of days — slow enough to be calm, fast enough that you can catch it in a single week of watching.
+It's one of the best first encounters with "variable stars," and with the surprising idea that some of what looks permanent in the sky is actually shifting on a timescale of days — slow enough to be calm, fast enough that you can catch it in a single week of watching.
 
 ### 20. Ring Nebula (M 57)
 *The famous "smoke ring" planetary nebula in Lyra — an easy showpiece.*
@@ -165,7 +165,7 @@ Sagittarius, the Archer, is best known by its "Teapot" asterism, which really do
 
 M24 is the odd one out in Messier's catalog: it isn't a single cluster or nebula at all, but a *window* through the Milky Way. Normally, great dark clouds of interstellar dust hide the crowded star fields toward the center of our galaxy; here there happens to be a gap, and looking through it you see a rich carpet of thousands of far-off stars heaped together. In binoculars it's one of the loveliest sweeps in the whole summer sky.
 
-It teaches a beautiful truth about how our galaxy is built: the Milky Way isn't only stars, it's also lanes of dark dust that block the light behind them. Where that dust happens to thin out, as here, we get to peer deep into the galaxy's interior — a natural skylight onto stars thousands of light-years past our own neighborhood.
+It reveals how our galaxy is actually built: the Milky Way isn't only stars, it's also lanes of dark dust that block the light behind them. Where that dust happens to thin out, as here, we get to peer deep into the galaxy's interior — a natural skylight onto stars thousands of light-years past our own neighborhood.
 
 ### 22. Omega Nebula (M 17)
 *A bright star-forming nebula in Sagittarius — one of the easiest nebulae to see.*
@@ -211,7 +211,7 @@ Vulpecula, the Little Fox, is a faint modern constellation with no bright stars,
 
 The Coathanger is one of the most charming sights in all of binocular astronomy: a straight row of six stars with a "hook" of four hanging beneath, looking uncannily like an upside-down coathanger drifting in the Milky Way. It's easy to sweep up about midway between Vega and Altair, and it never fails to get a grin.
 
-Here's the twist, though: it isn't a real cluster at all. Precise measurements showed these ten stars lie at wildly different distances and simply happen to line up into that shape from our particular spot in the galaxy — a pattern astronomers call an "asterism." It's a perfect lesson in cosmic perspective: some of the sky's most convincing shapes are tricks of viewpoint that would dissolve completely if you could see them from anywhere else.
+Here's the twist, though: it isn't a real cluster at all. Precise measurements showed these ten stars lie at wildly different distances and simply happen to line up into that shape from our particular spot in the galaxy — a pattern astronomers call an "asterism." It's cosmic perspective made vivid: some of the sky's most convincing shapes are tricks of viewpoint that would dissolve completely if you could see them from anywhere else.
 
 ### 28. Dumbbell Nebula (M 27)
 *The brightest, easiest planetary nebula, in Vulpecula — an "apple core" glow.*
@@ -259,7 +259,7 @@ Sagitta, the Arrow, is the third-smallest constellation of all, yet its little d
 
 M71 is a modest little cluster tucked into the tiny arrow-shaped constellation Sagitta, set in a gorgeous stretch of Milky Way. For a long time astronomers argued about what it even was: it's so loose and sparse that many thought it might be an unusually dense open cluster rather than a true globular. Better measurements finally settled it as a globular — just a relatively young, loosely packed one, which is why it looks softer than a showpiece like M13.
 
-In a small telescope it's a gentle, grainy glow rather than a blazing ball, which makes it a pleasant, low-key target. Its backstory is a nice lesson that sorting objects into categories isn't always obvious in astronomy, and that better instruments sometimes settle old arguments.
+In a small telescope it's a gentle, grainy glow rather than a blazing ball, which makes it a pleasant, low-key target. Its backstory shows that sorting objects into categories isn't always obvious in astronomy, and that better instruments sometimes settle old arguments.
 
 ## Cygnus (Cyg)
 
@@ -268,9 +268,9 @@ Cygnus, the Swan, flies down the summer Milky Way with wings spread wide — a s
 ### 34. Albireo (bet2 Cyg)
 *The sky's most beautiful color-contrast double star, in Cygnus.*
 
-If you show a newcomer just one double star, make it Albireo. Even a small telescope reveals a glorious pair — a rich golden-yellow star beside a smaller sapphire-blue one, the finest color contrast in the whole sky. It marks the head of Cygnus the Swan, which is also the foot of the "Northern Cross," and the sight of those two jewels against the summer Milky Way is unforgettable.
+Albireo is the double star to show a newcomer. Even a small telescope reveals a glorious pair — a rich golden-yellow star beside a smaller sapphire-blue one, the finest color contrast in the whole sky. It marks the head of Cygnus the Swan, which is also the foot of the "Northern Cross," and the sight of those two jewels against the summer Milky Way is unforgettable.
 
-Albireo is also a physics lesson with no math required: the golden star is cooler and the blue one hotter, because a star's color is a direct readout of its surface temperature — the same way a metal poker glows red, then orange, then blue-white as it heats. Curiously, astronomers still aren't certain whether these two stars truly orbit each other or are just a stunning line-of-sight coincidence — proof that even famous, familiar objects keep a little mystery.
+Albireo also puts a piece of physics on plain view: the golden star is cooler and the blue one hotter, because a star's color is a direct readout of its surface temperature — the same way a metal poker glows red, then orange, then blue-white as it heats. Curiously, astronomers still aren't certain whether these two stars truly orbit each other or are just a stunning line-of-sight coincidence — proof that even famous, familiar objects keep a little mystery.
 
 ### 35. xi Cyg
 *An aging orange supergiant in Cygnus, near Deneb.*
@@ -308,14 +308,14 @@ The trick he used, "parallax," is the same one your eyes use to judge distance �
 
 Near Deneb floats one of the sky's most delightful shapes: a vast cloud of glowing gas whose outline is a dead ringer for the continent of North America, complete with a dark "Gulf of Mexico." It's genuinely enormous — larger than the full Moon on the sky — but faint, so it's best under dark skies with binoculars, a wide-field scope, or a nebula filter, and it's spectacular in photographs, where its hydrogen glow blushes red.
 
-The clever part is how it gets that shape: the "coastline" is carved by lanes of dark dust drifting in front of the cloud, blocking the light behind them to sketch that familiar continental outline. It's a beautiful demonstration that nebulae are shaped as much by shadow and dust as by the glow of the gas itself.
+That shape is the work of dust: the "coastline" is carved by lanes of dark dust drifting in front of the cloud, blocking the light behind them to sketch that familiar continental outline. Nebulae, it turns out, are shaped as much by shadow and dust as by the glow of the gas itself.
 
 ### 41. Deneb (alf Cyg)
 *A supergiant marking the tail of Cygnus and the top of the Northern Cross — a Summer Triangle corner.*
 
 Deneb marks the tail of Cygnus the Swan and the top of the Northern Cross, the third corner of the Summer Triangle. Here's what makes it quietly astonishing: it looks about as bright as its Triangle-mates Vega and Altair, yet those two are practically next door while Deneb lies fantastically far away — well over a thousand light-years. To still shine that brightly across such a gulf, it must be a genuine monster — around nineteen times the Sun's mass, pouring out the light of something like a hundred thousand Suns. Stars that heavy live fast and die young: within a few million years Deneb will exhaust its fuel and blow itself apart as a supernova, exactly like the star that left the Veil we just visited.
 
-That makes Deneb the perfect teacher of one of astronomy's most important ideas: how bright a star *looks* tells you nothing about how bright it truly *is* until you know its distance. Vega looks brilliant because it's close; Deneb looks brilliant because it's a supergiant powerhouse seen from far away. Same apparent glow, wildly different stars.
+Deneb makes vivid one of astronomy's most important ideas: how bright a star *looks* tells you nothing about how bright it truly *is* until you know its distance. Vega looks brilliant because it's close; Deneb looks brilliant because it's a supergiant powerhouse seen from far away. Same apparent glow, wildly different stars.
 
 ### 42. M 39
 *A large, loose open cluster in Cygnus — a binocular object.*
@@ -351,7 +351,7 @@ Capricornus, the Sea Goat, is a faint zodiac constellation shaped like a wide ar
 
 Algedi is one of the rare doubles you can split with no equipment at all: look carefully and the single "star" separates into two, close but distinct. The catch — and the lesson — is that these two stars have nothing to do with each other. One is relatively near and the other lies far beyond it; they appear side by side only because they happen to fall along the same line of sight from Earth, like a nearby streetlight lining up with a distant one.
 
-It's the textbook example of an "optical double," as opposed to genuinely bound pairs like Albireo. Algedi makes a great little exercise in cosmic perspective: our flat view of the sky hides depth entirely, so two things that look like neighbors can actually be worlds apart.
+It's an "optical double," as opposed to genuinely bound pairs like Albireo. Our flat view of the sky hides depth entirely, so two things that look like neighbors can actually be worlds apart.
 
 ### 46. Dabih Major (bet1 Cap)
 *A binocular double star in Capricornus — gold and blue.*
@@ -393,7 +393,7 @@ The Saturn Nebula earns its name beautifully: it's a small planetary nebula whos
 ### 51. M 2
 *A rich, compact globular cluster in Aquarius.*
 
-M2 is one of the grander globular clusters — a big, rich, tightly packed ball of perhaps 150,000 ancient stars that, under a very dark sky, is just barely detectable with the naked eye as a hazy speck. In a small telescope it's a bright, round glow that begins to fray into individual stars around the rim as you add aperture — the perfect demonstration that what the naked eye writes off as a faint smudge is really a swarm of a hundred thousand suns, unlocked the moment you raise a telescope to it.
+M2 is one of the grander globular clusters — a big, rich, tightly packed ball of perhaps 150,000 ancient stars that, under a very dark sky, is just barely detectable with the naked eye as a hazy speck. In a small telescope it's a bright, round glow that begins to fray into individual stars around the rim as you add aperture — and what the naked eye writes off as a faint smudge turns out to be a swarm of a hundred thousand suns, unlocked the moment you raise a telescope to it.
 
 ### 52. zet1 Aqr (Zeta Aquarii)
 *A matched double star at the center of Aquarius's "Water Jar."*
@@ -409,7 +409,7 @@ Cepheus, the King, looks like a child's drawing of a house — a square with a p
 
 Alfirk looks like an ordinary naked-eye star in Cepheus, but it's the "prototype" of an entire family of variable stars named after it — the Beta Cephei stars. It pulses ever so slightly every few hours, far too subtly to catch by eye, yet those tiny rhythmic heartbeats are windows into the churning physics deep inside the star. A small telescope also reveals a fainter companion alongside it.
 
-The lesson is a lovely one: stars aren't the fixed, unchanging points they seem. Many of them quietly throb and ring like bells, driven by the same nuclear engine that makes them shine — and Alfirk is the founding member of one such club.
+And so stars aren't the fixed, unchanging points they seem: many of them quietly throb and ring like bells, driven by the same nuclear engine that makes them shine — and Alfirk is the founding member of one such club.
 
 ### 54. del Cep (Delta Cephei)
 *The most important variable star in the sky — the original Cepheid, in Cepheus.*
@@ -454,7 +454,7 @@ The Andromeda Galaxy is the most distant thing most people can ever see with the
 
 For a long time nobody knew what these "spiral nebulae" were — nearby clouds of gas inside our own galaxy, or separate "island universes" far beyond it. The question was only settled in the 1920s, when Edwin Hubble picked out individual stars in Andromeda and showed they were impossibly distant. Overnight, the known universe became thousands of times bigger.
 
-Here's the fun part to think about at the eyepiece: unlike most galaxies, Andromeda isn't racing away from us — it's heading *toward* us, and in a few billion years the two galaxies will merge into one. That little smudge is our galaxy's future dance partner. The beginner's lesson: the faintest, most unremarkable smear of light can be the biggest thing you'll ever lay eyes on.
+Here's the fun part to think about at the eyepiece: unlike most galaxies, Andromeda isn't racing away from us — it's heading *toward* us, and in a few billion years the two galaxies will merge into one. That little smudge is our galaxy's future dance partner — and the faintest, most unremarkable smear of light can turn out to be the biggest thing you'll ever lay eyes on.
 
 ### 59. Almach (gam1 And)
 *Colorful double star in Andromeda — a small-telescope showpiece.*
@@ -502,7 +502,7 @@ The Lagoon is one of only two star-forming nebulae bright enough to glimpse with
 ### Trifid Nebula (M 20)
 *The rare three-in-one nebula in Sagittarius — emission, reflection, and dark all at once.*
 
-If the sky offered a single object that showed off every kind of nebula at once, it would be the Trifid. Most nebulae are just one type; this one stacks all three. Glowing red **emission** gas fills its main body, a cooler **reflection** nebula glows dusty blue off to one side (dust grains scattering a nearby star's light, blue for the same reason the daytime sky is), and threaded across the whole thing are the lanes of **dark nebula** that give it its name — "Trifid" meaning split in three. It sits close enough to the Lagoon to share the same low binocular sweep, and it's astonishingly young: this whole star-forming complex is only a few hundred thousand years old, a newborn by cosmic reckoning. It's the perfect object for tying together three ideas the main list met one at a time — glowing gas, reflected starlight, and blocking dust — all in a single eyepiece.
+If the sky offered a single object that showed off every kind of nebula at once, it would be the Trifid. Most nebulae are just one type; this one stacks all three. Glowing red **emission** gas fills its main body, a cooler **reflection** nebula glows dusty blue off to one side (dust grains scattering a nearby star's light, blue for the same reason the daytime sky is), and threaded across the whole thing are the lanes of **dark nebula** that give it its name — "Trifid" meaning split in three. It sits close enough to the Lagoon to share the same low binocular sweep, and it's astonishingly young: this whole star-forming complex is only a few hundred thousand years old, a newborn by cosmic reckoning. It ties together three ideas the main list met one at a time — glowing gas, reflected starlight, and blocking dust — all in a single eyepiece.
 
 ### Barnard's E (Barnard 142 & 143)
 *A dark rift near Altair — a nebula you notice not by its glow but by the stars it blots out.*
