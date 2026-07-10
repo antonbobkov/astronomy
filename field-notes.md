@@ -177,7 +177,7 @@ The Omega is one of the brightest and most rewarding nebulae for a small telesco
 
 M22 is one of the brightest globular clusters in the entire sky and among the nearest to us — an easy glowing ball in binoculars. Its only drawback from Adin is that it rides low in the south, where haze near the horizon can rob some of its shine. It was very likely the first globular cluster ever discovered, back in 1665, long before anyone understood what these fuzzy balls actually were.
 
-For such a familiar object, it hides real surprises. Radio telescopes have caught at least two **black holes** wandering its crowded core — the collapsed corpses of once-massive stars, each perhaps ten to twenty times the Sun's mass, so dense that not even light escapes them; astronomers suspect dozens more hide among the throng. M22 is also one of only a handful of globulars known to wrap around a planetary nebula of its own. Tens of thousands of ancient stars packed this tightly behave in strange ways, and M22 is proof that even old, well-known neighborhoods can still keep secrets.
+For such a familiar object, it hides real surprises. Radio telescopes have caught at least two **black holes** wandering its crowded core — the collapsed corpses of once-massive stars, each perhaps ten to twenty times the Sun's mass, so dense that not even light escapes them; astronomers suspect dozens more hide among the throng. M22 is also one of only a handful of globulars known to wrap around a planetary nebula of its own. Tens of thousands of ancient stars packed this tightly behave in strange ways, and even old, well-known neighborhoods can still keep secrets.
 
 ### 24. Flora
 *One of the brightest asteroids — another wandering point of light.*
@@ -270,7 +270,7 @@ Cygnus, the Swan, flies down the summer Milky Way with wings spread wide — a s
 
 Albireo is the double star to show a newcomer. Even a small telescope reveals a glorious pair — a rich golden-yellow star beside a smaller sapphire-blue one, the finest color contrast in the whole sky. It marks the head of Cygnus the Swan, which is also the foot of the "Northern Cross," and the sight of those two jewels against the summer Milky Way is unforgettable.
 
-Albireo also puts a piece of physics on plain view: the golden star is cooler and the blue one hotter, because a star's color is a direct readout of its surface temperature — the same way a metal poker glows red, then orange, then blue-white as it heats. Curiously, astronomers still aren't certain whether these two stars truly orbit each other or are just a stunning line-of-sight coincidence — proof that even famous, familiar objects keep a little mystery.
+Albireo also puts a piece of physics on plain view: the golden star is cooler and the blue one hotter, because a star's color is a direct readout of its surface temperature — the same way a metal poker glows red, then orange, then blue-white as it heats. Curiously, astronomers still aren't certain whether these two stars truly orbit each other or are just a stunning line-of-sight coincidence: even famous, familiar objects keep a little mystery.
 
 ### 35. xi Cyg
 *An aging orange supergiant in Cygnus, near Deneb.*
@@ -320,7 +320,7 @@ Deneb makes vivid one of astronomy's most important ideas: how bright a star *lo
 ### 42. M 39
 *A large, loose open cluster in Cygnus — a binocular object.*
 
-M39 is a big, loose, nearby open cluster — a gentle triangular scatter of young blue-white stars that's actually best enjoyed in binoculars or at the very lowest power, since a telescope's narrow view chops the group up. It makes a relaxing sweep after chasing fainter targets — proof that not every worthwhile object needs magnification: sometimes the point is simply to take in a whole family of sibling stars in one wide, easy glance.
+M39 is a big, loose, nearby open cluster — a gentle triangular scatter of young blue-white stars that's actually best enjoyed in binoculars or at the very lowest power, since a telescope's narrow view chops the group up. It makes a relaxing sweep after chasing fainter targets: not every worthwhile object needs magnification, and sometimes the point is simply to take in a whole family of sibling stars in one wide, easy glance.
 
 ## Delphinus (Del)
 
@@ -398,7 +398,7 @@ M2 is one of the grander globular clusters — a big, rich, tightly packed ball 
 ### 52. zet1 Aqr (Zeta Aquarii)
 *A matched double star at the center of Aquarius's "Water Jar."*
 
-Zeta Aquarii sits at the heart of the little Y-shaped "Water Jar" of Aquarius, and a small telescope reveals it as a close, near-twin pair of yellow-white stars. They genuinely orbit each other, but so slowly — over five centuries — that their dance is imperceptible within a human lifetime. There's even a hidden third star in the system, unsuspected until the 1940s — proof that a "double" can keep secrets for centuries.
+Zeta Aquarii sits at the heart of the little Y-shaped "Water Jar" of Aquarius, and a small telescope reveals it as a close, near-twin pair of yellow-white stars. They genuinely orbit each other, but so slowly — over five centuries — that their dance is imperceptible within a human lifetime. There's even a hidden third star in the system, unsuspected until the 1940s — a "double" that kept a secret for centuries.
 
 ## Cepheus (Cep)
 
