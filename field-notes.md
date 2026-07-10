@@ -1,6 +1,6 @@
 # 2026 Best Objects — Field Notes
 
-Observing notes for **Adin, CA**, on the night of **Saturday 11 July 2026** — the objects that ride at least 10° above the horizon between 10 pm and midnight. Organized to match the observing list: **grouped by constellation and ordered west-first**, so you work through the constellations setting in the west before they're gone, with the objects inside each one arranged to keep telescope movement short. Each constellation opens with a short introduction, followed by notes on its objects.
+Observing notes for **Adin, CA**, on the night of **Saturday 11 July 2026** — the objects that ride at least 10° above the horizon between 10 pm and midnight. The order matches the observing list: **grouped by constellation and ordered west-first**, so you catch the ones setting in the west before they slip away, with the objects inside each constellation arranged to keep telescope movement short. Every constellation opens with a brief introduction, then the notes on its objects.
 
 ## Ursa Major (UMa)
 
@@ -30,7 +30,7 @@ Mizar has a knack for making history: it was the first double star ever photogra
 ### 4. M 101 (Pinwheel Galaxy)
 *Face-on spiral galaxy in Ursa Major — a rewarding challenge that needs dark skies.*
 
-The Pinwheel is a big, beautiful spiral galaxy turned face-on to us, so photographs show its arms curling outward like a cosmic catherine wheel. In the eyepiece it's a subtler thing: its light is smeared over a wide area, so it appears as a faint, ghostly glow that only reveals its spiral shape under very dark skies or through a large telescope. That makes it a good teacher of a stargazing truth — "big" and "bright" aren't the same, and a sprawling object can be harder to spot than a small compact one.
+The Pinwheel is a big, beautiful spiral galaxy turned face-on to us, so photographs show its arms curling outward like a cosmic catherine wheel. In the eyepiece it's a subtler thing: its light is smeared over a wide area, so it appears as a faint, ghostly glow that only reveals its spiral shape under very dark skies or through a large telescope. That makes it a good teacher of a stargazing truth — "big" and "bright" aren't the same thing, and a sprawling object can be harder to spot than a small, concentrated one.
 
 For scale, the Pinwheel is nearly three times the width of the Milky Way and may hold something like a trillion stars, yet it stays dim simply because it lies around twenty million light-years away. Tracking it down is a rite of passage; catching even its glow is a sign the sky above you is genuinely dark.
 
@@ -41,7 +41,7 @@ Corona Borealis, the Northern Crown, is a small but perfect little arc of stars 
 ### 5. zet1 CrB (Zeta Coronae Borealis)
 *A clean double star in Corona Borealis, the Northern Crown.*
 
-Corona Borealis is a small, tidy semicircle of stars — the "Northern Crown" — and Zeta is one of its quiet treats: a neat pair of stars that a small telescope splits cleanly. Both are hot and blue-white, so instead of the color contrast of Almach or Albireo you get a matched set, like a pair of headlights. And there's more here than meets the eye — each of the two stars you split is itself part of a tighter multiple, so this tidy "double" is really a small family of five.
+Zeta is one of the Crown's quiet treats: a neat pair of stars that a small telescope splits cleanly. Both are hot and blue-white, so instead of the color contrast of Almach or Albireo you get a matched set, like a pair of headlights. And there's more here than meets the eye — each of the two stars you split is itself part of a tighter multiple, so this tidy "double" is really a small family of five.
 
 ## Hercules (Her)
 
@@ -64,7 +64,7 @@ A globular cluster like this is one of the galaxy's true elders. Its stars are a
 
 M92 has the bad luck of sharing Hercules with the more famous M13, so it often gets skipped — but on its own it's a stunner, a bright, compact ball of stars that would be a headline sight in almost any other constellation. Binoculars show a small round glow; a telescope tightens it into a dense, sparkling knot.
 
-The quiet lesson of M92 is a stargazer's one: some of the finest sights hide right next to the famous ones, and it always pays to look past the obvious. (It's also reckoned one of the very oldest and most metal-poor clusters known — an elder even among elders.)
+M92 teaches a lesson every stargazer learns sooner or later: some of the finest sights hide right next to the famous ones, and it always pays to look past the obvious. (It's also reckoned one of the very oldest and most metal-poor clusters known — an elder even among elders.)
 
 ### 9. Rasalgethi (alf Her)
 *A giant, pulsing red star in Hercules — and a colorful double in a telescope.*
@@ -101,7 +101,7 @@ Draco the Dragon is a long, winding chain of stars that coils around the north c
 ### 13. Cat's Eye Nebula (NGC 6543)
 *Planetary nebula in Draco — a tiny, vivid blue-green disk in a telescope.*
 
-The Cat's Eye is a "planetary nebula" — a misleading old name that has nothing to do with planets. It's really the death-shroud of a Sun-like star: as such stars run out of fuel, they gently puff off their outer layers, which glow as a delicate shell of gas — made to fluoresce in their own light by the searing ultraviolet of the exposed stellar core at the center. That core is a **white dwarf**: the star's burnt-out heart, no larger than the Earth yet so dense that a teaspoon of it would weigh tons, now left to simply cool for billions of years. In a telescope the Cat's Eye appears as a small but surprisingly bright blue-green disk, easier to spot than many beginners expect.
+The Cat's Eye is a "planetary nebula" — a misleading old name that has nothing to do with planets. It's really the death-shroud of a Sun-like star: as such stars run out of fuel, they gently puff off their outer layers, which glow as a delicate shell of gas — set fluorescing by the searing ultraviolet of the exposed stellar core at its center. That core is a **white dwarf**: the star's burnt-out heart, no larger than the Earth yet so dense that a teaspoon of it would weigh tons, now left to simply cool for billions of years. In a telescope the Cat's Eye appears as a small but surprisingly bright blue-green disk, easier to spot than many beginners expect.
 
 Hubble images reveal it to be astonishingly intricate — nested shells, knots, and jets that hint the dying star may have a hidden companion sculpting the gas. It's also a mirror of our own future: in about five billion years the Sun will end its life the same way, briefly wearing a glowing shell like this before fading to a cinder. Planetary nebulae are the universe's recycling in action — the cast-off gas, enriched with elements the star built over its lifetime, drifts away to help form the next generation of stars and planets.
 
@@ -119,7 +119,7 @@ It's one of the best places to appreciate where stars actually come from. Gravit
 ### 15. IC 4756
 *A rich, wide open cluster in Serpens — a binocular treat.*
 
-IC 4756 is a big, generous scatter of stars, bright enough to glimpse without optics and truly at its best in binoculars, where dozens of suns fill the field at once. It's often enjoyed alongside a neighboring cluster, NGC 6633 — the two are affectionately nicknamed Tweedledum and Tweedledee. That pairing carries a quiet lesson: two clusters that look side by side in our sky can actually lie at very different distances, lined up only by chance from where we happen to stand.
+IC 4756 is a big, generous scatter of stars, bright enough to glimpse without optics and truly at its best in binoculars, where dozens of suns fill the field at once. It's often enjoyed alongside a neighboring cluster, NGC 6633 — the two are affectionately nicknamed Tweedledum and Tweedledee. And the pairing hides a quiet twist: two clusters that look side by side in our sky can actually lie at very different distances, lined up only by chance from where we happen to stand.
 
 ### 16. Alya (the1 Ser)
 *A wide, easy matched double star in the tail of Serpens.*
@@ -280,7 +280,7 @@ Xi Cygni is a modest naked-eye star not far from Deneb — an aging orange super
 ### 36. M 29
 *A small open cluster in Cygnus, set in a rich Milky Way field.*
 
-M29 is a small, modest open cluster — just a handful of hot young stars — but it sits in one of the richest parts of the summer Milky Way, near the bright star at the heart of Cygnus, so the sparse little group is framed against a beautiful backdrop of fainter stars. Its brightest members make a small boxy shape that some see as a tiny "cooling tower." It's an easy binocular catch, its brightest stars packed into a tidy little box against a spectacular Milky Way backdrop.
+M29 is a small, modest open cluster — just a handful of hot young stars — but it sits in one of the richest parts of the summer Milky Way, near the bright star at the heart of Cygnus, so the sparse little group is framed against a lavish backdrop of fainter stars. Its brightest members make a small boxy shape that some see as a tiny "cooling tower." It's an easy binocular catch that proves setting can matter as much as the object itself — a plain little cluster made memorable by the glittering field it's pinned to.
 
 ### 37. Western Veil Nebula (NGC 6960)
 *The western arc of the Veil — the lacy wreckage of an exploded star, in Cygnus.*
@@ -320,7 +320,7 @@ That makes Deneb the perfect teacher of one of astronomy's most important ideas:
 ### 42. M 39
 *A large, loose open cluster in Cygnus — a binocular object.*
 
-M39 is a big, loose, nearby open cluster — a gentle triangular scatter of young blue-white stars that's actually best enjoyed in binoculars or at the very lowest power, since a telescope's narrow view chops the group up. It makes a relaxing sweep after chasing fainter targets, and a reminder that not every worthwhile object needs magnification: sometimes the whole point is to take in a whole family of sibling stars in one wide, easy glance.
+M39 is a big, loose, nearby open cluster — a gentle triangular scatter of young blue-white stars that's actually best enjoyed in binoculars or at the very lowest power, since a telescope's narrow view chops the group up. It makes a relaxing sweep after chasing fainter targets — proof that not every worthwhile object needs magnification: sometimes the point is simply to take in a whole family of sibling stars in one wide, easy glance.
 
 ## Delphinus (Del)
 
@@ -338,7 +338,7 @@ Microscopium, the Microscope, is a faint and obscure southern constellation with
 ### 44. Bamberga
 *A large, dark main-belt asteroid — a wandering point of light.*
 
-Bamberga is one of the bigger asteroids, with a couple of quirks of history. Discovered in 1892, it was the last asteroid large and bright enough to be catchable in binoculars to be found — the easy ones had all been snapped up, and this dark world stayed hidden longer precisely because it reflects so little light. That darkness is the interesting part: Bamberga is a primitive, carbon-rich **C-type** asteroid, its sooty surface barely changed since the Solar System formed — a chemical time capsule from before the planets finished growing. Its stretched orbit means only once every couple of decades does it swing close enough to brighten toward the edge of naked-eye visibility; the rest of the time, like tonight, it's strictly a telescopic dot.
+Bamberga is one of the bigger asteroids, with a couple of quirks of history. Discovered in 1892, it was the last asteroid bright enough for binoculars to be found at all — the easy ones had long since been snapped up, and this dark world stayed hidden precisely because it reflects so little light. That darkness is the interesting part: Bamberga is a primitive, carbon-rich **C-type** asteroid, its sooty surface barely changed since the Solar System formed — a chemical time capsule from before the planets finished growing. Its stretched orbit means only once every couple of decades does it swing close enough to brighten toward the edge of naked-eye visibility; the rest of the time, like tonight, it's strictly a telescopic dot.
 
 As ever, its slow night-to-night drift is the only thing that sets this distant rock apart from the faint stars around it.
 
@@ -472,7 +472,7 @@ Perseus, the hero who rescued Andromeda, lies in a magnificent stretch of the Mi
 
 The Double Cluster is one of the finest sights in the northern sky for binoculars or a low-power telescope: two dense, sparkling knots of blue-white stars sitting side by side in the same view. To the naked eye under a dark sky they show up as a hazy double patch in the Milky Way between Perseus and Cassiopeia — ancient skywatchers logged it long before anyone knew it was two separate swarms of stars.
 
-Both clusters are young as stars go, only around 13 million years old, which is why they blaze with hot blue stars that haven't yet had time to age; older clusters look redder and more settled. Two rich, brilliant clusters caught in a single glance — and genuinely related, born from the same great cloud — is a rare treat.
+Both clusters are young as stars go, only around 13 million years old, which is why they blaze with hot blue stars that haven't yet had time to age; older clusters look redder and more settled. Two rich, brilliant clusters caught in a single glance — and genuinely related, born from the same great cloud — make a rare treat.
 
 ### 61. Double Cluster (NGC 884)
 *The eastern half of the Double Cluster.*
